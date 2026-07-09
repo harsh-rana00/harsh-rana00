@@ -8,7 +8,7 @@ I'm a passionate UI/UX Designer with experience designing intuitive web and mobi
 
 - 💼 UI/UX & Visual Designer at Hardy's Media
 - 🎓 Bachelor of Computer Applications (BCA), Marwadi University
-- 🎨 4+ years of experience in UI/UX, branding, and visual design
+- 🎨 3+ years of experience in UI/UX, branding, and visual design
 - 📱 Experienced in mobile and web application design
 - 🌱 Continuously learning new design trends, accessibility practices, and user-centered design methodologies
 
