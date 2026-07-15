@@ -68,15 +68,6 @@ I'm a passionate UI/UX Designer with experience designing intuitive web and mobi
 
 ---
 
-## `$` Live Metrics
-
-<div align="center">
-
-<img width="49%" src="https://github.com/harsh-rana00/harsh-rana00/blob/main/metrics.isocalendar.svg"/>
-
-</div>
-
----
 
 ## `$` Profile Summary
 
