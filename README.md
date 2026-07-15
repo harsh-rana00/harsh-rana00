@@ -68,17 +68,4 @@ I'm a passionate UI/UX Designer with experience designing intuitive web and mobi
 
 ---
 
-
-## `$` Profile Summary
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harsh-rana00&theme=github_dark"/>
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harsh-rana00&theme=github_dark"/>
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harsh-rana00&theme=github_dark"/>
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harsh-rana00&theme=github_dark"/>
-
-</div>
-
 *"Great design is not just how it looks—it's how it works."*
