@@ -51,4 +51,43 @@ I'm a passionate UI/UX Designer with experience designing intuitive web and mobi
 
 ---
 
+## `$` Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=harsh-rana00&show_icons=true&hide_border=true&count_private=true&hide_rank=true&include_all_commits=true&custom_title=GitHub+Stats&title_color=22d3ee&icon_color=f59e0b&text_color=e2ffff&bg_color=0d1117"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=harsh-rana00&hide_border=true&ring=22d3ee&fire=f59e0b&currStreakLabel=22d3ee&currStreakNum=ffffff&sideLabels=e2ffff&sideNums=e2ffff&background=0d1117&dates=8b9eb0"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-rana00&layout=compact&hide_border=true&langs_count=10&custom_title=Top+Languages&title_color=22d3ee&text_color=e2ffff&bg_color=0d1117"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harsh-rana00&theme=github_dark&utcOffset=5.5"/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=harsh-rana00&bg_color=0d1117&color=22d3ee&line=f59e0b&point=e2ffff&area_color=001a1a&area=true&hide_border=true&custom_title=Contribution+Activity&radius=4"/>
+
+</div>
+
+---
+
+## `$` Live Metrics
+
+<div align="center">
+
+<img width="49%" src="https://github.com/harsh-rana00/harsh-rana00/blob/main/metrics.isocalendar.svg"/>
+
+</div>
+
+---
+
+## `$` Profile Summary
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harsh-rana00&theme=github_dark"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harsh-rana00&theme=github_dark"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harsh-rana00&theme=github_dark"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harsh-rana00&theme=github_dark"/>
+
+</div>
+
 *"Great design is not just how it looks—it's how it works."*
